@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sayooj
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently working @ suntelematics
+- 🌱 I’m currently working @ Sun Telematics Pvt Ltd
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ... sayooj@suntelematics.com
 
