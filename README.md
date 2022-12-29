@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sayooj
 - 👀 I’m a hell of a Mobile application developer
-- 🌱 I’m currently working @ Sun Telematics Pvt Ltd
+- 🌱 I currently work @ Sun Telematics Pvt Ltd
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Reach me ... sayooj@suntelematics.com
 
